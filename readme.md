@@ -94,10 +94,10 @@ In Shadowkeep update, Bungie made huge nerf to something called **auto reloading
 
 To replicate the mechanism:
 
-1. Trigger `primary attack`
-2. Trigger `reload` rapidly right after the shooting
-3. Rapidly send `primary attack` for multiple times until it shoots next round
-4. Repeat
+1. Trigger `primary attack`.
+2. Trigger `reload` rapidly right after the shooting.
+3. Rapidly send `primary attack` for multiple times until it shoots next round.
+4. Repeat.
 
 This automates the steps described above.
 
