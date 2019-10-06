@@ -2,11 +2,11 @@
 
 > DISCLAIMER: Use at your own risk. I do not take any responsibility for any consequences caused by the users who use this. There's no guarantee that you don't get BANNED by Bungie if you use this.
 
-**Also read:** https://www.reddit.com/r/destiny2/comments/96dbcm/macro_usage/
-
 This repository contains a collection of AutoHotKey macros for proof of concept of automating the game mechanisms.
 
 You may need to remap your keyboard mapping if this conflicts with it.
+
+**Also read:** https://www.reddit.com/r/destiny2/comments/96dbcm/macro_usage/
 
 ## Usage
 
@@ -28,17 +28,16 @@ This enables Titans to fly through the air without losing the height where they 
 
 You will need some setup for this before you start:
 
-- (Exotic) Lion Rampant
-- (Jump) Catapult Lift
-- Sword
+- `(Exotic) Lion Rampant`
+- `(Jump) Catapult Lift`
+- `Sword`
 
 **Demo:** https://www.youtube.com/watch?v=5HM11GzQldI
-
 **Special thanks to:** https://youtu.be/0R5Rf3D93i0
 
 #### Keys & Usage
 
-Start from the ground, hold Sword and sprint forward to where you want to fly. Then press <kbd>Z</kbd>.
+Start from the ground, hold sword and sprint forward to where you want to fly. Then press <kbd>Z</kbd>.
 
 - <kbd>Z</kbd>: Start Flying
 - <kbd>F2</kbd>: Toggle Macro On/Off
