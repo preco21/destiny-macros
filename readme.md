@@ -125,7 +125,7 @@ Requirments:
 
 **Note:** Bungie server may kick you out from the social space if you use it much.
 
-**Watch out:** Somebody can report you for dazzling their eyes.
+**Watch Out:** Somebody can report you for dazzling their eyes.
 
 #### Keys & Usage
 
