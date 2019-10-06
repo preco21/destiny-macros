@@ -1,4 +1,4 @@
-# Destiny 2 Macros
+# Macros for Destiny 2
 
 > DISCLAIMER: Use at your own risk. I do not take any responsibility for any consequences caused by the users who use this. There's no guarantee that you don't get BANNED by Bungie if you use this.
 
