@@ -166,7 +166,7 @@ These may not work as expected since it only tested in Korean version of Destiny
 
 Feel free to fork it and modify. PR's welcome.
 
-### 한국어 메뉴얼 없음?
+### 한국어 매뉴얼 없음?
 
 PR 주세요.
 
