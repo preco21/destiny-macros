@@ -114,14 +114,14 @@ This automates the steps described above.
 
 > `¯\_(ツ)_/¯`
 
+[Watch this](https://www.youtube.com/watch?v=oAwm2kJs3wA).
+
+This affacts other users who are not in your fireteam.
+
 Requirments:
 
 - `Sword`
 - `Location: Tower`
-
-[Watch this](https://www.youtube.com/watch?v=oAwm2kJs3wA).
-
-This affacts other users who are not in your fireteam.
 
 **Note:** Bungie server may kick you out from the social space if you use it much.
 
