@@ -76,9 +76,9 @@ This automates the procedure when you come to replicate it.
 
 You will need some resources before you start:
 
-- Glimmer
-- Weapon Parts
-- Orbit (not required, but safe)
+- `Glimmer`
+- `Weapon Parts`
+- `Orbit (not required, but safe)`
 
 #### Keys & Usage
 
