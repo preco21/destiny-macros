@@ -132,6 +132,15 @@ Requirments:
 - <kbd>F2</kbd>: Start `Mirror Ball`
 - <kbd>F3</kbd>: Stop `Mirror Ball`
 
+### Full Auto Trigger System
+
+[You know what it does](https://www.light.gg/db/items/4267945040/full-auto-trigger-system/).
+
+#### Keys & Usage
+
+- <kbd>Click</kbd>: Start a loop that trigger `left click` every 0.1 ~ 0.3 second automatically.
+- <kbd>ALT</kbd>+<kbd>Right Click</kbd>: Toggle Macro On/Off
+
 ### Smart Shopper
 
 [`smart-shopper.ahk`](https://github.com/preco21/destiny-macros/raw/master/smart-shopper.ahk)
