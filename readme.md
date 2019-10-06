@@ -24,7 +24,7 @@ You may need to remap your keyboard mapping if this conflicts with it.
 
 > That Class is Korean Destiny meme for Titans who always ace the Crucible with  melee dash.
 
-This enables Titans to fly through the air without losing the height where you jumped from.
+This enables Titans to fly through the air without losing the height where they jumped from.
 
 You will need some setup for this before you start:
 
