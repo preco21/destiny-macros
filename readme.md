@@ -134,6 +134,8 @@ Requirments:
 
 ### Full Auto Trigger System
 
+[`full-auto-trigger-system.ahk`](https://github.com/preco21/destiny-macros/raw/master/full-auto-trigger-system.ahk)
+
 [You know what it does](https://www.light.gg/db/items/4267945040/full-auto-trigger-system/).
 
 #### Keys & Usage
