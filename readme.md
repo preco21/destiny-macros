@@ -79,6 +79,7 @@ You will need some resources before you start:
 
 - `Glimmer`
 - `Weapon Parts`
+- `Unlocked: HARSH LANGUAGE (special ammo grenade launcher)`
 - `Location: Orbit (not required, but safe)`
 
 #### Keys & Usage
