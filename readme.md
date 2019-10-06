@@ -20,7 +20,7 @@ You may need to remap your keyboard mapping if this conflicts with it.
 
 ### Flying That Class
 
-`flying-that-class.ahk`
+[`flying-that-class.ahk`](https://github.com/preco21/destiny-macros/raw/master/flying-that-class.ahk)
 
 > That Class is Korean Destiny meme for Titans who always ace the Crucible with  melee dash.
 
@@ -45,7 +45,7 @@ Start from the ground, hold sword and sprint forward to where you want to fly. T
 
 ### Warlock Fit Changer (for cycling Lunafaction Boots <> Phoenix Protocol)
 
-`warlock-fit-changer.ahk`
+[`warlock-fit-changer.ahk`](https://github.com/preco21/destiny-macros/raw/master/warlock-fit-changer.ahk)
 
 > Works on FHD(1920x1080) resolution
 
@@ -65,7 +65,7 @@ While this macro is running actions, it is not recommended to move mouse.
 
 ### Give Me Some Mod Components
 
-`give-me-some-mod-components.ahk`
+[`give-me-some-mod-components.ahk`](https://github.com/preco21/destiny-macros/raw/master/give-me-some-mod-components.ahk)
 
 > Works on FHD(1920x1080) resolution
 
@@ -88,7 +88,7 @@ You will need some resources before you start:
 
 ### The Mountain Top Spammer
 
-`mt-spammer.ahk`
+[`mt-spammer.ahk`](https://github.com/preco21/destiny-macros/raw/master/mt-spammer.ahk)
 
 In Shadowkeep update, Bungie made huge nerf to something called **auto reloading**. Yet, somebody found a technique called **reload skipping** which can be applied to the weapon `The Mountain Top` to fire rounds about `25%` faster than normal.
 
@@ -110,7 +110,7 @@ This automates the steps described above.
 
 ### Mirror Ball
 
-`mirror-ball.ahk`
+[`mirror-ball.ahk`](https://github.com/preco21/destiny-macros/raw/master/mirror-ball.ahk)
 
 > `¯\_(ツ)_/¯`
 
@@ -134,7 +134,7 @@ Requirments:
 
 ### Smart Shopper
 
-`smart-shopper.ahk`
+[`smart-shopper.ahk`](https://github.com/preco21/destiny-macros/raw/master/smart-shopper.ahk)
 
 This is utility for buying items in bulk manor.
 
