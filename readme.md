@@ -78,7 +78,7 @@ You will need some resources before you start:
 
 - `Glimmer`
 - `Weapon Parts`
-- `Orbit (not required, but safe)`
+- `Location: Orbit (not required, but safe)`
 
 #### Keys & Usage
 
@@ -112,6 +112,11 @@ This automates the steps described above.
 `mirror-ball.ahk`
 
 > `¯\_(ツ)_/¯`
+
+Requirments:
+
+- `Sword`
+- `Location: Tower`
 
 [Watch this](https://www.youtube.com/watch?v=oAwm2kJs3wA).
 
