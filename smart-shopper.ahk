@@ -5,21 +5,21 @@ SetBatchLines -1
 ListLines Off
 SendMode Input
 
-alt & `::
+Alt & `::
 SetTimer, start_click_loop_2000, off
 SetTimer, start_click_loop_rapid, off
 SetTimer, start_dismantle_loop, off
 return
 
-alt & 1::
+Alt & 1::
 SetTimer, start_click_loop_2000, 2000
 return
 
-alt & 2::
+Alt & 2::
 SetTimer, start_click_loop_rapid, 100
 return
 
-alt & 3::
+Alt & 3::
 SetTimer, start_dismantle_loop, 2000
 return
 
