@@ -55,7 +55,7 @@ You will need to place your armors as below:
 ![fit-changer-figure-1](media/fit-changer-1.png)
 ![fit-changer-figure-1](media/fit-changer-2.png)
 
-While this macro is running actions, it is not recommended to move your mouse.
+While this macro is running actions, it is not recommended to move mouse.
 
 #### Keys & Usage
 
