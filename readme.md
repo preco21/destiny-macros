@@ -105,7 +105,7 @@ This automates the steps described above.
 
 #### Keys & Usage
 
-- <kbd>Z</kbd>: Start a `fire-reload` loop while pressed
+- <kbd>Middle Click</kbd>: Start a `fire-reload` loop while pressed
 - <kbd>F2</kbd>: Toggle Macro On/Off
 
 ### Mirror Ball

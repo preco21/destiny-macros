@@ -6,13 +6,19 @@ ListLines Off
 SendMode Input
 
 ~*F2::
-Hotkey, ~*Z, Toggle
+Hotkey, ~*MButton, Toggle
 return
 
-~*Z::
-while GetKeyState("Z", "P") {
+~*MButton::
+SetTimer, fire_reload, 30
+fire_reload()
+return
+
+~*MButton Up::
+SetTimer, fire_reload, Off
+return
+
+fire_reload() {
      Click
      Send, {R}
-     Sleep, 30
 }
-return
