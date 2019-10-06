@@ -28,9 +28,9 @@
 
 사용하기 전에 다음 준비물이 필요합니다:
 
-- (경이) 사나운 사자
-- (점프) 사출 부양
-- 아무 검
+- `(경이) 사나운 사자`
+- `(점프) 사출 부양`
+- `아무 검`
 
 **시연영상:** https://www.youtube.com/watch?v=5HM11GzQldI
 
@@ -75,7 +75,6 @@
 
 잠수할 때 궤도에서 틀어놓고 가면 1시간당 개조 부품 구성품을 약 120개 정도 먹을 수 있습니다.
 
-
 **이 매커니즘에 대한 글**: https://www.reddit.com/r/DestinyTheGame/comments/9ww38z/mod_component_farm_from_collections/
 
 다음과 같은 준비물이 필요합니다:
@@ -118,7 +117,7 @@
 
 > `¯\_(ツ)_/¯`
 
-[Watch this](https://www.youtube.com/watch?v=oAwm2kJs3wA).
+[이거 보세요](https://www.youtube.com/watch?v=oAwm2kJs3wA).
 
 화력팀에 속해있지 않은 사람한테도 보입니다.
 
