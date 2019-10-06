@@ -1,5 +1,7 @@
 # Macros for Destiny 2
 
+한국어 매뉴얼은 [여기](readme-ko.md)를 클릭하세요.
+
 > DISCLAIMER: Use at your own risk. I do not take any responsibility for any consequences caused by the users who use this. There's no guarantee that you don't get BANNED by Bungie if you use this.
 
 This repository contains a collection of AutoHotKey macros for proof of concept of automating the game mechanisms.
@@ -106,7 +108,7 @@ This automates the steps described above.
 
 #### Keys & Usage
 
-- <kbd>Middle Click</kbd>: Start a `fire-reload` loop while pressed
+- <kbd>Middle Mouse Button</kbd>: Start a `fire-reload` loop while pressed
 - <kbd>F2</kbd>: Toggle Macro On/Off
 
 ### Mirror Ball
@@ -141,8 +143,8 @@ Requirments:
 
 #### Keys & Usage
 
-- <kbd>Click</kbd>: Start a loop that trigger `left click` every 0.1 ~ 0.3 second automatically.
-- <kbd>ALT</kbd>+<kbd>Right Click</kbd>: Toggle Macro On/Off
+- <kbd>Left Mouse Button</kbd>: Start a loop that trigger `left click` every 0.1 ~ 0.3 second automatically
+- <kbd>ALT</kbd>+<kbd>Right Mouse Button</kbd>: Toggle Macro On/Off
 
 ### Smart Shopper
 
@@ -169,7 +171,7 @@ Feel free to fork it and modify. PR's welcome.
 
 ### 한국어 매뉴얼 없음?
 
-PR 주세요.
+:point_right: [여기](readme-ko.md)
 
 ## License
 
