@@ -13,7 +13,7 @@ You may need to remap your keyboard mapping if this conflicts with it.
 - Install [AutoHotKey](https://www.autohotkey.com) `v1.1.30+`.
 - Download the file you want by doing:
   - Right click on the filename below the headers.
-  - Click `"Save as File"`.
+  - Click `"Save link as..."`.
 - Double-click the file to run.
 
 ## Collection
