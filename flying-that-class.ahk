@@ -19,15 +19,15 @@ Sleep, 460
 while GetKeyState("Z", "P") {
      ; class jump
      Send, {Space}
-     
+
      ; canceling the jump
      Sleep, 600
      Send, {Space}
-     
+
      ; sword swing
      Sleep, 900
      Click
-     
+
      ; delay for next round
      Sleep, 850
 }
