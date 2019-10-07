@@ -84,6 +84,8 @@ You will need some resources before you start:
 - `Unlocked: HARSH LANGUAGE (special ammo grenade launcher)`
 - `Location: Orbit (not required, but safe)`
 
+**Caution:** You must empty energy weapon inventory, which mean all 9 blue weapons created will consume every energy weapon item slot.
+
 #### Keys & Usage
 
 - <kbd>F2</kbd>: Start making `Mod Componments`.
