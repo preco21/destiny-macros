@@ -32,18 +32,21 @@ loop {
      Send, {a}
 
      ; Go to weapon tab
-     Sleep, 800
+     Sleep, 1800
      weapon_x := Floor(Width * 0.3)
      weapon_y := Floor(Height * 0.39)
      Click, %weapon_x%, %weapon_y%
 
      ; Select special weapon tab
-     Sleep, 500
+     Sleep, 1500
      Send, {d}
 
      ; Select granade launcher
-     Sleep, 500
+     Sleep, 1000
      Send, {s}
+
+     ; Random commands to prevent the command failure
+     MouseMove, 50, 0, 50, R
 
      ; Start loop over 9 times to create weapons
      loop 9 {
