@@ -19,8 +19,6 @@ keep_running = y
 loop {
      if keep_running = n
           return
-		  
-		  
 
      ; Open inventory
      Send, {F1}
@@ -32,8 +30,8 @@ loop {
      ; One more time
      Sleep, 500
      Send, {a}
-	 
-	 ; Random commands to prevent the command failure
+
+     ; Random commands to prevent the command failure
      MouseMove, 50, 0, 50, R
 
      ; Go to weapon tab
@@ -41,7 +39,7 @@ loop {
      weapon_x := Floor(Width * 0.3)
      weapon_y := Floor(Height * 0.39)
      MouseMove, %weapon_x%, %weapon_y%, 100
-	 Sleep, 1000
+     Sleep, 1000
      Click, %weapon_x%, %weapon_y%
 
      ; Select special weapon tab
@@ -54,27 +52,20 @@ loop {
 
      ; Random commands to prevent the command failure
      MouseMove, 50, 0, 50, R
-	 
-	
 
      ; Start loop over 9 times to create weapons
      loop 10 {
           Sleep, 500
-
           to_create_x := Floor(Width * 0.642)
           to_create_y := Floor(Height * 0.343)
           MouseMove, %to_create_x%, %to_create_y%, 100
           Click, Down, %to_create_x%, %to_create_y%
           Sleep, 3400
           Click, Up
-		  
-		  if keep_running = n
-			return
-     }
 
-     ; Open inventory again
-     ;Sleep, 500
-     ;Send, {i}
+          if keep_running = n
+               return
+     }
 
      Sleep, 300
      Send, {Esc}
@@ -104,9 +95,9 @@ loop {
           Send, {f down}
           Sleep, 2000
           Send, {f up}
-		  
-		  if keep_running = n
-			return
+
+          if keep_running = n
+               return
      }
 
      Send, {ESC}
