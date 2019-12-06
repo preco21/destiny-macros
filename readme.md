@@ -163,6 +163,18 @@ Well, `bulk-buy` stuff should be implemented by Bungie itself though.
 - <kbd>ALT</kbd>+<kbd>2</kbd>: Start a loop where it rapidly clicks the left mouse button (good for token exchange).
 - <kbd>ALT</kbd>+<kbd>3</kbd>: Start a loop where it presses F for 2 seconds (good for dismantling items).
 
+### Panic Button
+
+[`panic-button.ahk`](https://github.com/preco21/destiny-macros/raw/master/panic-button.ahk)
+
+Immediately quits the game when triggered.
+
+This is useful when you are doing flawless run such as `Petra's Run`.
+
+#### Keys & Usage
+
+- <kbd>~</kbd>: When activated, it immediately closes the game by triggering `ALT`+`F4` internally.
+
 ## FAQ
 
 ### Not working! This is bull$h!t

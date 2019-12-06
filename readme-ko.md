@@ -163,6 +163,18 @@
 - <kbd>ALT</kbd>+<kbd>2</kbd>: 빠르게 클릭을 반복합니다 (토큰 교환시 유용합니다).
 - <kbd>ALT</kbd>+<kbd>3</kbd>: `F`버튼을 2초간 눌렀다가 땠다가 반복합니다.
 
+### Panic Button
+
+[`panic-button.ahk`](https://github.com/preco21/destiny-macros/raw/master/panic-button.ahk)
+
+정해진 버튼을 누르면 그 즉시 게임을 종료합니다.
+
+주로 페트라런 같은 무결점 레이드를 돌리는데 유용하게 사용될 수 있습니다.
+
+#### 단축키 & 사용법
+
+- <kbd>~</kbd>: 버튼이 눌리는 즉시 `ALT`+`F4`를 실행해서 게임을 종료시킵니다.
+
 ## FAQ
 
 ### 안되는데요?
