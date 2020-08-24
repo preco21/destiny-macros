@@ -175,6 +175,17 @@ This is useful when you are doing flawless run such as `Petra's Run`.
 
 - <kbd>~</kbd>: When activated, it immediately closes the game by triggering `ALT`+`F4` internally.
 
+### AFK
+
+[`afk.ahk`]()
+
+This script allows you to afk in certain activities by periodically providing left and right movement inputs. Adjust timings according to your needs.
+
+#### Keys & Usage
+
+- <kbd>Alt+A</kbd>: Start the script
+- <kbd>F3</kbd>: Toggle Macro On/Off
+
 ## FAQ
 
 ### Not working! This is bull$h!t
