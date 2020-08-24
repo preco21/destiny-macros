@@ -183,7 +183,7 @@ This script allows you to afk in certain activities by periodically providing le
 
 #### Keys & Usage
 
-- <kbd>Alt+A</kbd>: Start the script
+- <kbd>Alt</kbd>+<kbd>A</kbd>: Start the script
 - <kbd>F3</kbd>: Toggle Macro On/Off
 
 ## FAQ
