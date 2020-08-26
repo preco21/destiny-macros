@@ -177,9 +177,9 @@ This is useful when you are doing flawless run such as `Petra's Run`.
 
 ### AFK
 
-[`afk.ahk`]()
+[`afk.ahk`](https://github.com/preco21/destiny-macros/raw/master/afk.ahk)
 
-This script allows you to afk in certain activities by periodically providing left and right movement inputs. Adjust timings according to your needs.
+This script allows you to afk in certain activities by periodically providing left and right movement inputs. Adjust `movementInterval` and `stopInterval` timings according to your needs.
 
 #### Keys & Usage
 
