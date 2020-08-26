@@ -20,8 +20,8 @@ return
 return
 
 movement() {
-  Random , movementInterval, 1000, 2000
-  Random , stopInterval, 3000, 7000
+  Random, movementInterval, 1000, 2000
+  Random, stopInterval, 3000, 7000
   moveLeft(movementInterval)
   sleep, stopInterval
   moveRight(movementInterval)
