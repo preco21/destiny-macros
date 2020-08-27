@@ -206,7 +206,7 @@ This allows Warlocks to chain two Icarus Dash back-to-back and move very quickly
 
 #### How to use:
 
-- Equip Warlock's top-tree Dawnblade: Attunement of Sky.
+- Equip Warlock's top-tree Dawnblade: Attunement of Sky with Burst Glide jump.
 - Press <kbd>F2</kbd> to toggle the script.
 - While sprinting, press <kbd>Z</kbd> to activate a Icarus Dash chain (Keep holding <kbd>W</kbd>, i.e, moving forward)
 
