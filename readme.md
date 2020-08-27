@@ -186,6 +186,24 @@ This script allows you to afk in certain activities by periodically providing le
 - <kbd>Alt</kbd>+<kbd>A</kbd>: Start the script
 - <kbd>F3</kbd>: Toggle Macro On/Off
 
+### Warlock Icarus Dash Chaining
+
+[`warlock-icarus-dash-chaining.ahk`](https://github.com/preco21/destiny-macros/raw/master/warlock-icarus-dash-chaining.ahk)
+
+This allows Warlocks to chain two Icarus Dash back-to-back and move very quickly.
+
+#### How to use:
+
+- Equip Warlock's top-tree Dawnblade: Attunement of Sky.
+- Press <kbd>F2</kbd> to toggle the script.
+- While sprinting, press <kbd>Z</kbd> to activate a Icarus Dash chain (Keep holding <kbd>W</kbd>, i.e, moving forward)
+
+**NOTE**
+
+- Works more or less only on relatively flat ground.
+- The script needs to activate second dash right as the character touches the ground after the first dash, so you might need to adjust the `secondDashDelay` to achieve that. It usually depends on your mobility and any other extra perks, like the exotic Transversive Steps or a light weight frame weapon. The default value is set to `1050` ms which should be just fine for a Tier 6 - Tier 9 Mobility Warlock. To adjust it the thumb rule is: higher the Tier, more the delay value.
+
+
 ## FAQ
 
 ### Not working! This is bull$h!t
