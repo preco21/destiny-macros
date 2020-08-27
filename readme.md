@@ -213,6 +213,7 @@ This allows Warlocks to chain two Icarus Dash back-to-back and move very quickly
 #### Note
 
 - Works only on relatively flat ground more or less.
+- Equip sword while dashing to prevent first-person to third-person switch, and subjectively prevent nausea :smiley:
 - The script needs to activate second dash right as the character touches the ground after the first dash, so you might need to adjust the `secondDashDelay` to achieve that. It usually depends on your mobility and any other extra perks, like the exotic Transversive Steps or a light weight frame weapon. The default value is set to `1050` ms which should be just fine for a Tier 6 - Tier 9 Mobility Warlock. To adjust it the thumb rule is: higher the Tier, more the delay value.
 
 
