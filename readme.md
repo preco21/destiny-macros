@@ -18,6 +18,18 @@ You may need to remap your keyboard mapping if this conflicts with it.
   - Click `"Save link as..."`.
 - Double-click the file to run.
 
+## Jump to
+- [AFK](#afk)
+- [Flying That Class](#flying-that-class)
+- [Full Auto Trigger System](#full-auto-trigger-system)
+- [Give Me Some Mod Components](#give-me-some-mod-components)
+- [Mirror Ball](#mirror-ball)
+- [Panic Button](#panic-button)
+- [Smart Shopper](#smart-shopper)
+- [The Mountain Top Spammer](#the-mountain-top-spammer)
+- [Warlock Fit Changer](#warlock-fit-changer-for-cycling-lunafaction-boots--phoenix-protocol)
+- [Warlock Icarus Dash Chaining](#warlock-icarus-dash-chaining)
+
 ## Collection
 
 ### Flying That Class
@@ -198,9 +210,9 @@ This allows Warlocks to chain two Icarus Dash back-to-back and move very quickly
 - Press <kbd>F2</kbd> to toggle the script.
 - While sprinting, press <kbd>Z</kbd> to activate a Icarus Dash chain (Keep holding <kbd>W</kbd>, i.e, moving forward)
 
-**NOTE**
+#### Note
 
-- Works more or less only on relatively flat ground.
+- Works only on relatively flat ground more or less.
 - The script needs to activate second dash right as the character touches the ground after the first dash, so you might need to adjust the `secondDashDelay` to achieve that. It usually depends on your mobility and any other extra perks, like the exotic Transversive Steps or a light weight frame weapon. The default value is set to `1050` ms which should be just fine for a Tier 6 - Tier 9 Mobility Warlock. To adjust it the thumb rule is: higher the Tier, more the delay value.
 
 
