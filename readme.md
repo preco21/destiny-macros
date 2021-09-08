@@ -2,7 +2,7 @@
 
 한국어 매뉴얼은 [여기](readme-ko.md)를 클릭하세요.
 
-> DISCLAIMER: Use at your own risk. I do not take any responsibility for any consequences caused by the users who use this. There's no guarantee that you don't get BANNED by Bungie if you use this.
+> DISCLAIMER: Use at your own risk. I do not take any responsibility for any consequences caused by the users who use this. There's no guarantee that you don't get BANNED by Bungie if you use this. Please see this [related issue](https://github.com/preco21/destiny-macros/issues/4#issue-990956216) first before you proceed.
 
 This repository contains a collection of AutoHotKey macros for proof of concept of automating the game mechanisms.
 
