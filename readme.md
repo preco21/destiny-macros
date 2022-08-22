@@ -133,7 +133,7 @@ This automates the steps described above.
 
 [Watch this](https://www.youtube.com/watch?v=oAwm2kJs3wA).
 
-This affacts other users who are not in your fireteam.
+This effects other users who are not in your fireteam.
 
 Requirments:
 
